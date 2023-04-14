@@ -28,6 +28,7 @@ a=int(input())
 print("Square root of the number:",sroot(a))
 ```
 ## Output:
-![OUTPUT](./images/output.png)
+<img height=50% width=40% src="./images/output.png">  
+
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
